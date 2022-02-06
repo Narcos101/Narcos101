@@ -11,17 +11,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narcos101&label=Profile%20views&color=0e75b6&style=flat" alt="narcos101" /> </p>
 
-- 🔭 I’m currently working on **Airbnb clone**
-
 - 🌱 I’m currently learning **Machine learning**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 💬 Ask me about **reactjs**
+- 💬 Ask me about **Web Dev, AI, ML**
 
 - 📫 How to reach me **vivek.jaiswar_19@sakec.ac.in**
-
-- ⚡ Fun fact **I prefer coding at night**
 
 
 <h3 align="left">Languages and Tools:</h3>
